@@ -6,7 +6,7 @@
 超人（Superman）是美国DC漫画旗下的超级英雄，美国漫画史上第一个超级英雄，首次登场于《动作漫画》（Action Comics）创刊号（1938年6月），由杰瑞·西格尔（Jerry Siegel）和乔·舒斯特（Joe Shuste）联合创造 [1]  。
 超人出生于氪星（Krypton），原名卡尔-艾尔（Kal-El）。在氪星面临毁灭之际，他的父母将尚在襁褓中的卡尔用飞船送到了地球。飞船坠落在美国堪萨斯州的斯莫维尔（Smallville），卡尔被农场主肯特夫妇发现，并以克拉克·肯特（Clark Kent）的地球名字抚养长大。
 长大成人后，克拉克来到大都会（Metropolis），成为《星球日报》 的一名记者。他有着与生俱来的超能力和极强的正义感与同情心，每在危难时刻，便身着蓝色紧身衣，披上红色斗篷，化身超人行侠仗义，拯救世人。
-[超人图片](https://user-images.githubusercontent.com/105439222/168150870-226b55a0-b894-4f00-9aa3-324208b21272.png)
+ [超人图片](https://user-images.githubusercontent.com/105439222/168150870-226b55a0-b894-4f00-9aa3-324208b21272.png)
 
 有关更多详细信息，请参阅[百度百科](https://baike.baidu.com/item/%E8%B6%85%E4%BA%BA/13106?fromtitle=Superman&fromid=5161&fr=aladdin).
 
