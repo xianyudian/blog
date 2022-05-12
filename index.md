@@ -1,4 +1,4 @@
-## Welcome to 罗振龙 Blog
+# Welcome to 罗振龙 Blog
 
 You can use the [editor on GitHub](https://github.com/xianyudian/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
