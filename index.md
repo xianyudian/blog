@@ -8,6 +8,7 @@
 长大成人后，克拉克来到大都会（Metropolis），成为《星球日报》 的一名记者。他有着与生俱来的超能力和极强的正义感与同情心，每在危难时刻，便身着蓝色紧身衣，披上红色斗篷，化身超人行侠仗义，拯救世人。
 
 
+
 ```markdown
 Syntax highlighted code block
 
@@ -26,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-有关更多详细信息，请参阅(https://baike.baidu.com/item/%E8%B6%85%E4%BA%BA/13106?fromtitle=Superman&fromid=5161&fr=aladdin).
+有关更多详细信息，请参阅[Link](https://baike.baidu.com/item/%E8%B6%85%E4%BA%BA/13106?fromtitle=Superman&fromid=5161&fr=aladdin).
 
 ### Jekyll Themes
 
