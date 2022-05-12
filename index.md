@@ -29,7 +29,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+有关更多详细信息，请参阅(https://baike.baidu.com/item/%E8%B6%85%E4%BA%BA/13106?fromtitle=Superman&fromid=5161&fr=aladdin).
 
 ### Jekyll Themes
 
