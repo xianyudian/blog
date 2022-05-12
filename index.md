@@ -1,7 +1,6 @@
 # Welcome to 罗振龙 Blog
 
-You can use the [editor on GitHub](https://github.com/xianyudian/blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+我将为你介绍一下我最喜欢的漫威英雄——
 ## 超人（Superman）
 
 超人（Superman）是美国DC漫画旗下的超级英雄，美国漫画史上第一个超级英雄，首次登场于《动作漫画》（Action Comics）创刊号（1938年6月），由杰瑞·西格尔（Jerry Siegel）和乔·舒斯特（Joe Shuste）联合创造 [1]  。
